@@ -1,1 +1,1 @@
-## - palavra secreta
+## - Descubra a palavra secreta
